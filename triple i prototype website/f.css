@@ -1,0 +1,24 @@
+
+h1{color: brown;}
+h1:hover{color: burlywood;}
+h2{color: blueviolet;}
+h2:hover{color: blue;}
+h4{color: red;}
+.pics{
+    width: 5;
+    right: 10;
+}
+.image{
+    size: 30%;
+    width: 2%;
+}
+body{
+    background-color: antiquewhite;
+}
+p{
+    color: blue;
+}
+p:hover{color: cadetblue;}
+h4:hover{color: black;}
+.button{color: #222;}
+.button:hover{color: brown;}
